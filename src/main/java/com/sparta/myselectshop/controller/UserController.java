@@ -10,7 +10,6 @@ import com.sparta.myselectshop.service.FolderService;
 import com.sparta.myselectshop.service.KakaoService;
 import com.sparta.myselectshop.service.UserService;
 import jakarta.servlet.http.Cookie;
-import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
